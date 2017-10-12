@@ -1,0 +1,27 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "lectures server side development CIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narshe1412/ChatCIT.git"
+  },
+  "keywords": [
+    "chat",
+    "node",
+    "noexpress"
+  ],
+  "author": "Manuel Colorado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Narshe1412/ChatCIT/issues"
+  },
+  "homepage": "https://github.com/Narshe1412/ChatCIT#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
