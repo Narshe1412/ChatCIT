@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Narshe1412/ChatCIT#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.21.1"
   }
 }
